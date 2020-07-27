@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Obtained a PhD degree in statistics from [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a NSERC CGS-D scholarship (2009-2011)
+Obtained a PhD degree in statistics from [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of [Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a NSERC CGS-D scholarship (2009-2011)
     
 Has been a visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by Canada Graduate Scholarships – Michael Smith Foreign Study Supplements 
 

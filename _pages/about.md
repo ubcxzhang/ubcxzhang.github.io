@@ -18,6 +18,8 @@ Worked as a MSc statistician at [Centre for Heart Lung Innovation](https://www.h
 
 Joined the [University of Victoria](https://www.uvic.ca/science/math-statistics/) (2017) as an assistant professor & Canada Research Chair (tier 2).
 
+**Other Affiliations (associate faculty member of)** : [Centre for Heart Lung Innovation, University of British Columbia](https://www.hli.ubc.ca/), [The Visual and Automated Disease Analytics (VADA) program](http://vada.cs.umanitoba.ca), and [Center for Biomedical Research, University of Victoria](https://www.uvic.ca/research/centres/biomedical/index.php).
+
 
 Openings
 ======

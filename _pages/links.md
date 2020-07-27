@@ -3,9 +3,6 @@ layout: archive
 title: "Useful links"
 permalink: /links/
 author_profile: true
-redirect_from: 
-  - /links/
-  - /links.html
 ---
 
 [A tutorial of using Compute Canada Servers prepared by my Student Simon Guo](https://github.com/sgyzetrov/ComputeCanada_Resources)    

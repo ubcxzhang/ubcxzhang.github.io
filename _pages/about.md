@@ -10,15 +10,9 @@ redirect_from:
 
 Obtained a PhD degree in statistics from [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of [Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a NSERC CGS-D scholarship (2009-2011)
     
-Has been a visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by Canada Graduate Scholarships – Michael Smith Foreign Study Supplements 
-
-Worked as a postdoctoral fellow with NSERC PDF award (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry).
-
-Worked as a MSc statistician at [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) and [Sirius Genomics Inc.](https://www.linkedin.com/company/sirius-genomics/?originalSubdomain=ca) (2005-2009) and a PhD statistician at [Eli Lilly & Co.](https://www.lilly.com/)  and [AstraZeneca](https://www.astrazeneca.com/)  (2014-2017).
-
-Joined the [University of Victoria](https://www.uvic.ca/science/math-statistics/) (2017) as an assistant professor & Canada Research Chair (tier 2).
-
-**Other Affiliations (associate faculty member of)** : [Centre for Heart Lung Innovation, University of British Columbia](https://www.hli.ubc.ca/), [The Visual and Automated Disease Analytics (VADA) program](http://vada.cs.umanitoba.ca), and [Center for Biomedical Research, University of Victoria](https://www.uvic.ca/research/centres/biomedical/index.php).
+Has been a visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by Canada Graduate Scholarships – Michael Smith Foreign Study Supplements. Worked as a postdoctoral fellow with NSERC PDF award (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry). Then worked as a PhD statistician at [Eli Lilly & Co.](https://www.lilly.com/)  and [AstraZeneca](https://www.astrazeneca.com/)  (2014-2017).
+ 
+Joined the [University of Victoria](https://www.uvic.ca/science/math-statistics/) (2017) as an assistant professor & Canada Research Chair (tier 2).  I am also an associate faculty member of : [Centre for Heart Lung Innovation, University of British Columbia](https://www.hli.ubc.ca/), [The Visual and Automated Disease Analytics (VADA) program](http://vada.cs.umanitoba.ca), and [Center for Biomedical Research, University of Victoria](https://www.uvic.ca/research/centres/biomedical/index.php).
 
 
 Openings

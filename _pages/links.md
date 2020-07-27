@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Useful links"
-excerpt: "Useful links"
+permalink: /links/
 author_profile: true
 redirect_from: 
   - /links/

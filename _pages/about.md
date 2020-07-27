@@ -21,7 +21,17 @@ Joined the [University of Victoria](https://www.uvic.ca/science/math-statistics/
 
 Openings
 ======
-**Postdoc fellowship** I could hire regular postdoc using research grant, but the salary will not be competitive. I'd like candidates to apply additional funding from other agencies, such as [PIMS postdoc](https://www.pims.math.ca/scientific/postdoctoral), [CANSSI postdoc](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/), [NSERC postdoc](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp) , [MITACS postdoc](https://www.mitacs.ca/en/programs/elevate), [MITACS Early Career Fellowship](https://www.mitacs.ca/en/programs/globalink/come-to-canada/early-career-fellowship-china), etc.  Successful candidates are expected to have solid statistics knowledge and strong programming skills. Background in machine learning and/or bioinformatics are preferred. </p>
+**Postdoc fellowship** I could hire regular postdoc using research grant, but the salary will not be competitive. I'd like candidates to apply additional funding from other agencies, such as [PIMS postdoc](https://www.pims.math.ca/scientific/postdoctoral), [CANSSI postdoc](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/), [NSERC postdoc](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp) , [MITACS postdoc](https://www.mitacs.ca/en/programs/elevate), [MITACS Early Career Fellowship for China](https://www.mitacs.ca/en/programs/globalink/come-to-canada/early-career-fellowship-china), etc.  Successful candidates are expected to have solid statistics knowledge and strong programming skills. Background in machine learning and/or bioinformatics are preferred. </p>
 
 **PhD/MSc students** Department will provide about $5000/year TA salary for all graduate students. My students are encouraged to apply [VADA scholarship](http://vada.cs.umanitoba.ca/admissions/application-form/)  or  [this link](http://www.math.uvic.ca/~xuekui/files/VADA.pdf). Research Assistant positions are available for students with strong research ability and motivation. 
 [UVic tuition ](https://www.uvic.ca/vpfo/accounting/assets/docs/tuition/tuition-schedule.pdf) is about $2000 per term, which is much lower than most other universities in Canada.          
+
+
+Useful links
+======
+[A tutorial of using Compute Canada Servers prepared by my Student Simon Guo] https://github.com/sgyzetrov/ComputeCanada_Resources    
+[Style guide for R programming](http://adv-r.had.co.nz/Style.html)  
+[Machine learning packages in R ](https://cran.r-project.org/web/views/MachineLearning.html)    
+[An interesting tutorial about deep learning in R](https://www.datacamp.com/community/tutorials/keras-r-deep-learning)    
+[Video: The 2nd generation seuqncing technology](https://www.youtube.com/watch?v=fCd6B5HRaZ8)    
+[Video: The 3rd generation seuqncing technology](https://www.youtube.com/watch?v=v8p4ph2MAvI)    

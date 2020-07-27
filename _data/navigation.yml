@@ -3,17 +3,18 @@ main:
   - title: "Research"
     url: /research/
 
-#  - title: "Talks"
-#    url: /talks/
-
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Links"
+    url: /links/
+
+ #  - title: "Talks"
+ #    url: /talks/
 
  # - title: "Team"
  #   url: /team/
 
-- title: "Links"
-  url: /links/
   
 #  - title: "Portfolio"
 #    url: /portfolio/

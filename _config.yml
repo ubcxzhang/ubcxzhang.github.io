@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Dr. Xuekui Zhang"
   avatar           : "profile.png"
-  bio              : | "Assistent professor at the University of Victoria"
+  bio              : |-
+   "Assistent professor at the University of Victoria"
   "Canada Research Chair in Biostatistics and Bioinformatics (Tier 2)"
   location         : "Victoria, BC, Canada"
   employer         :

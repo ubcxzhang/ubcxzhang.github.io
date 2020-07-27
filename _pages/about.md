@@ -29,7 +29,7 @@ Openings
 
 Useful links
 ======
-[A tutorial of using Compute Canada Servers prepared by my Student Simon Guo] https://github.com/sgyzetrov/ComputeCanada_Resources    
+[A tutorial of using Compute Canada Servers prepared by my Student Simon Guo] (https://github.com/sgyzetrov/ComputeCanada_Resources)    
 [Style guide for R programming](http://adv-r.had.co.nz/Style.html)  
 [Machine learning packages in R ](https://cran.r-project.org/web/views/MachineLearning.html)    
 [An interesting tutorial about deep learning in R](https://www.datacamp.com/community/tutorials/keras-r-deep-learning)    

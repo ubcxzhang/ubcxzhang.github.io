@@ -23,11 +23,3 @@ Openings
 [UVic tuition ](https://www.uvic.ca/vpfo/accounting/assets/docs/tuition/tuition-schedule.pdf) is about $2000 per term, which is much lower than most other universities in Canada.          
 
 
-Useful links
-======
-[A tutorial of using Compute Canada Servers prepared by my Student Simon Guo](https://github.com/sgyzetrov/ComputeCanada_Resources)    
-[Style guide for R programming](http://adv-r.had.co.nz/Style.html)  
-[Machine learning packages in R ](https://cran.r-project.org/web/views/MachineLearning.html)    
-[An interesting tutorial about deep learning in R](https://www.datacamp.com/community/tutorials/keras-r-deep-learning)    
-[Video: The 2nd generation seuqncing technology](https://www.youtube.com/watch?v=fCd6B5HRaZ8)    
-[Video: The 3rd generation seuqncing technology](https://www.youtube.com/watch?v=v8p4ph2MAvI)    

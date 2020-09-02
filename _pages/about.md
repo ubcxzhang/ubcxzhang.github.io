@@ -30,8 +30,6 @@ Machine learning
 
 Design of clinical trials
 
-COPD
-
 Big data problems in any field
 
 

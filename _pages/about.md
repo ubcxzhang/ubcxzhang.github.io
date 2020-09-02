@@ -8,11 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Obtained a PhD degree in statistics from [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of [Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a [NSERC CGS-D scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) (2009-2011)
-    
-Has been a visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by [Canada Graduate Scholarships – Michael Smith Foreign Study Supplements](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp). Worked as a postdoctoral fellow with [NSERC PDF award](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry). Then worked as a PhD statistician at [Eli Lilly & Co.](https://www.lilly.com/)  and [AstraZeneca](https://www.astrazeneca.com/)  (2014-2017).
+Dr. Zhang joined [Centre for Heart Lung Innovation, University of British Columbia](https://www.hli.ubc.ca/) in 2019 as an associate member. His primary appointment is at the [University of Victoria](https://www.uvic.ca/science/math-statistics/), where he was recruited in 2017 as an assistant professor & Canada Research Chair in Bioinformatics and Biostatistics (tier 2). Before that, Dr. Zhang has worked as a Ph.D. statistician at [Eli Lilly & Co.](https://www.lilly.com/)  and [AstraZeneca](https://www.astrazeneca.com/) (2014-2017).
+
+Education and Training
+======
+PhD degree in statistics from the [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of [Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a NSERC CGS-D scholarship (2009-2011)
+
+Visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by [Canada Graduate Scholarships – Michael Smith Foreign Study Supplements](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp).
+
+Postdoctoral fellow with [NSERC PDF award](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry)
  
-Joined the [University of Victoria](https://www.uvic.ca/science/math-statistics/) (2017) as an assistant professor & Canada Research Chair (tier 2).  I am also an associate faculty member of : [Centre for Heart Lung Innovation, University of British Columbia](https://www.hli.ubc.ca/), [The Visual and Automated Disease Analytics (VADA) program](http://vada.cs.umanitoba.ca), and [Center for Biomedical Research, University of Victoria](https://www.uvic.ca/research/centres/biomedical/index.php).
+Area of Interest
+======
+Dr. Zhang’s research focus is to develop and apply novel biostatistics methods and software tools to solve real-world problems in medicine research. His research interests include:
+
+Bioinformatics
+
+Biostatistics
+
+Machine learning
+
+Design of clinical trials
+
+COPD
+
+Big data problems in any field
 
 
 Openings

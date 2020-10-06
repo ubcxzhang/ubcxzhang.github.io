@@ -16,7 +16,7 @@ Education and Training
 ======
 PhD degree in statistics from the [University of British Columbia](https://www.stat.ubc.ca) (09/2007-05/2011) under the supervision of [Dr. Raphael Gottardo](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) and [Dr. Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html). Held a BCIC Innovation Scholarship (2007-2009) and a NSERC CGS-D scholarship (2009-2011)
 
-Visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by [Canada Graduate Scholarships – Michael Smith Foreign Study Supplements](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp).
+Visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by [Canada Graduate Scholarships – MSFSS](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp).
 
 Postdoctoral fellow with [NSERC PDF award](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry)
  

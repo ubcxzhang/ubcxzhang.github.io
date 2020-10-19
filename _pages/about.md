@@ -25,6 +25,7 @@ Area of Interest
 Dr. Zhang’s research focus is to develop and apply novel biostatistics methods and software tools to solve real-world problems in medicine research. His research interests include: (1) Bioinformatics, (2) Biostatistics, (3) Machine learning, (4) Design of clinical trials, (5) Big data problems in any field
 
 
+<!-- 
 Openings
 ======
 **Postdoc fellowship** I am hiring a postdoctoral fellow to support my recently funded projects listed on the bottom of [this page](https://ubcxzhang.github.io/research/). Successful candidates are expected to have solid statistics knowledge and strong programming skills. Background in machine learning and/or bioinformatics are preferred. 
@@ -33,5 +34,6 @@ Candidates are welcome to apply this job posting [this link](https://www.mathjob
 
 **PhD/MSc students** Department will provide about $5000/year TA salary for all graduate students. Students with A-class GPA receive Faculty of Science scholarship since their second year. My students are encouraged to apply [VADA scholarship](http://vada.cs.umanitoba.ca/admissions/application-form/). Research Assistant positions are available for students with strong research ability and motivation. 
 [UVic tuition ](https://www.uvic.ca/vpfo/accounting/assets/docs/tuition/tuition-schedule.pdf) is about $2000 per term, which is much lower than most other universities in Canada.          
+ -->
 
 

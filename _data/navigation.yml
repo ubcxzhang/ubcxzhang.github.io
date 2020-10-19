@@ -9,6 +9,12 @@ main:
 - title: "Team"
   url: /team/
   
+- title: "Funded Projects"
+  url: /projects/
+  
+- title: "Openings"
+  url: /openings/
+  
 - title: "Links"
   url: /links/
 

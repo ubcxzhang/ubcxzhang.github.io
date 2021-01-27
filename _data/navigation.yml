@@ -1,6 +1,6 @@
 # main links links
 main:
-- title: "Research"
+- title: "Publications"
   url: /research/
 
 - title: "Teaching"
@@ -9,7 +9,7 @@ main:
 - title: "Team"
   url: /team/
   
-- title: "Funded Projects"
+- title: "Projects"
   url: /projects/
   
 - title: "Openings"

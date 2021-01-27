@@ -2,12 +2,6 @@
 main:
 - title: "Publications"
   url: /research/
-
-- title: "Teaching"
-  url: /teaching/
-
-- title: "Team"
-  url: /team/
   
 - title: "Projects"
   url: /projects/
@@ -15,6 +9,12 @@ main:
 - title: "Openings"
   url: /openings/
   
+- title: "Team"
+  url: /team/
+
+- title: "Teaching"
+  url: /teaching/
+
 - title: "Links"
   url: /links/
 

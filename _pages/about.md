@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Zhang's primary appointment is at the [University of Victoria](https://www.uvic.ca/science/math-statistics/), where he was recruited in 2017 as an assistant professor & [Canada Research Chair](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics (tier 2). Before that, Dr. Zhang has worked as a Ph.D. statistician at pharmaceutical companies Eli Lilly & Co. and AstraZeneca (2014-2017).
 
-Dr. Zhang is also a faculty member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/), [the VADA Program](http://vada.cs.umanitoba.ca/about-us/faculty/) , and [Centre for Advanced Materials and Related Technology](https://www.uvic.ca/research/centres/camtec/index.php).
+Dr. Zhang is also a faculty member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) and [the VADA Program](http://vada.cs.umanitoba.ca/about-us/faculty/) and [Centre for Advanced Materials and Related Technology](https://www.uvic.ca/research/centres/camtec/index.php).
 
 Education and Training
 ======

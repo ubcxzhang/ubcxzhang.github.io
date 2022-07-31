@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Dr. Xuekui Zhang (PhD) is an Assistant Professor at [University of Victoria](https://www.uvic.ca/science/math-statistics/), a [Canada Research Chair (II)](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics. <!--, and an [Michael Smith Foundation for Health Research Scholar](https://www.msfhr.org/1/award_researcher/xuekui_zhang). -->
 
-Dr. Zhang's primary appointment is at the [University of Victoria](https://www.uvic.ca/science/math-statistics/), where he was recruited in 2017 as an assistant professor & [Canada Research Chair](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics (tier 2). Before that, Dr. Zhang has worked as a Ph.D. statistician at pharmaceutical companies Eli Lilly & Co. and AstraZeneca (2014-2017).
-
-Dr. Zhang is also a faculty member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) and [the VADA Program](http://vada.cs.umanitoba.ca/about-us/faculty/) and [Centre for Advanced Materials and Related Technology](https://www.uvic.ca/research/centres/camtec/index.php).
+Dr. Zhang is also an associate member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) (2019-2024) and a adjunct faculty in Max Rady College of Medicine at Univ of Manitoba (2021-2024). He is also a faculty member of [the VADA Program](http://vada.cs.umanitoba.ca/about-us/faculty/) and [Centre for Advanced Materials and Related Technology](https://www.uvic.ca/research/centres/camtec/index.php).
 
 Education and Training
 ======
@@ -18,7 +17,7 @@ PhD degree in statistics from the [University of British Columbia](https://www.s
 
 Visiting scholar at [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) (2011), supported by [Canada Graduate Scholarships – MSFSS](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp).
 
-Postdoctoral fellow with [NSERC PDF award](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) (2011-2013) at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry)
+Postdoctoral fellow at the [Dept. of Biostatistics at Johns Hopkins University](https://www.jhsph.edu/departments/biostatistics/index.html) (2011-2013) under the supervision of [Dr. Hongkai Ji](http://biostat.jhsph.edu/~hji/) and [Dr. Rafael Irizarry](https://statistics.fas.harvard.edu/people/rafael-irizarry), partially funded by with [NSERC PDF award](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp).
  
 Area of Interest
 ======

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Xuekui Zhang"
 title_separator          : "-"
 name                     : &name "Dr. Xuekui Zhang"
-description              : &description "Assistant professor at the University of Victoria & Canada Research Chair in Biostatistics and Bioinformatics (Tier 2)"
+description              : &description "Assistant professor at the University of Victoria & Tier 2 Canada Research Chair & MSFHR Scholar"
 url                      : https://ubcxzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ubcxzhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Xuekui Zhang"
   avatar           : "profile.png"
-  bio              : "Tier 2 Canada Research Chair \n <br> MSFHR Scholar \n <br> Assistant professor at the University of Victoria"
+  bio              : "Assistant Professor at University of Victoria, \n Tier 2 Canada Research Chair, \n MSFHR Scholar"
   location         : "Victoria, BC, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=5QsFxcAAAAAJ&hl=en"

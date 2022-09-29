@@ -21,7 +21,7 @@ Postdoctoral fellow at the [Dept. of Biostatistics at Johns Hopkins University](
  
 Area of Interest
 ======
-Dr. Zhang’s research focus is to develop and apply novel biostatistics methods and software tools to solve real-world problems in medicine research. His research interests include: (1) Bioinformatics, (2) Biostatistics, (3) Machine learning, (4) Design of clinical trials, (5) Big data problems in any field
+Dr. Zhang’s research focus is to develop and apply novel biostatistics methods and software tools to solve real-world problems in medicine research. His research interests include: (1) Bioinformatics, (2) Biostatistics, (3) Machine learning, (4) Design of clinical trials, (5) COPD, (6) Big data problems in any field
 
 
 <!-- 

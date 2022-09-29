@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Xuekui Zhang (PhD) is an Assistant Professor at University of Victoria, a [Canada Research Chair (II)](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics, and an [MSFHR Scholar](https://healthresearchbc.ca/awardrecipient/2022-scholar-award-recipients/).
+Dr. Xuekui Zhang (PhD) is an Assistant Professor at University of Victoria, a [Canada Research Chair (II)](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics (2017-2027), and an [Michael Smith Health Research BC Scholar](https://healthresearchbc.ca/awardrecipient/2022-scholar-award-recipients/) (2022-2027).
 
 Dr. Zhang is also an associate member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) at University of British Columbia (2019-2024) and a adjunct faculty in Max Rady College of Medicine at Univ of Manitoba (2021-2024). He is also a faculty member of [the VADA Program](http://vada.cs.umanitoba.ca/about-us/faculty/) and [Centre for Advanced Materials and Related Technology](https://www.uvic.ca/research/centres/camtec/index.php).
 

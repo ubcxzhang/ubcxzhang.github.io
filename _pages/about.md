@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Xuekui Zhang (PhD) is an Associate Professor at University of Victoria, a [Canada Research Chair (Tier II)](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) in Bioinformatics and Biostatistics (2017-2027), and a [Michael Smith Health Research BC Scholar](https://healthresearchbc.ca/awardrecipient/2022-scholar-award-recipients/) (2022-2027).
-
-Dr. Zhang is also an associate member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) at University of British Columbia (2019-2024) and an adjunct faculty in Max Rady College of Medicine at Univ of Manitoba (2021-2024). 
+Holding titles of [Canada Research Chair (Tier II)](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) (2017-2027) and [Michael Smith Health Research BC Scholar](https://healthresearchbc.ca/awardrecipient/2022-scholar-award-recipients/) (2022-2027), Dr. Zhang's primary appointment is an associate professor at University of Victoria. He is also an associate member of [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) at the University of British Columbia (2019-2024) and an adjunct faculty in Max Rady College of Medicine at Univ of Manitoba (2021-2024). 
 
 Education and Training
 ======
@@ -21,7 +19,7 @@ Postdoctoral fellow at the [Dept. of Biostatistics at Johns Hopkins University](
  
 Area of Interest
 ======
-Dr. Zhang’s research focuses on developing and applying novel biostatistics methods and software tools to solve real-world problems in medical and biological research. His research interests include (1) Bioinformatics, (2) Biostatistics, (3) Machine learning, (4) Design of clinical trials, and (5) COPD.
+Dr. Zhang focuses on developing and applying novel biostatistics methods and software tools to unravel the intricacies of big data in a wide array of domains, including medical research, agricultural sciences, economics, and the study of environmental ecosystems. His research interests include (1) Bioinformatics, (2) Biostatistics, (3) Machine learning, (4) Design of clinical trials, and (5) COPD.
 
 <!-- 
 Openings

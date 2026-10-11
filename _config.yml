@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "image/profile.png" # Open Graph/Twitter default site image
+og_image                 : "image/photo.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Xuekui Zhang"
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   bio              : "Associate Professor at UVic, <br> Tier 2 Canada Research Chair, <br> MSFHR Scholar"
   location         : "Victoria, BC, Canada"
   employer         :
